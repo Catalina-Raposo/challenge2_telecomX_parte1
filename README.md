@@ -1,6 +1,8 @@
 # challenge2_telecomX_parte1
 
-Aquí tienes un **README.md** claro y profesional para acompañar tu notebook `TelecomX_LATAM.ipynb`. Está pensado para un proyecto de análisis de datos o portafolio de ciencia de datos.
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0b8e38b1-1946-4c58-b1bd-911d3a40852b" />
+
 
 ---
 
